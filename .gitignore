@@ -1,0 +1,5 @@
+# Build out put
+bin
+obj
+*.suo
+TestResults
